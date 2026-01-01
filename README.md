@@ -1,4 +1,4 @@
-# plant_disease_detection_app
+# Plant Disease Detection 
 
 A new Flutter project.
 
